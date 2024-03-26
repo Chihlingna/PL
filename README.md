@@ -9,5 +9,6 @@
 ## 課程筆記區
 ## 作業連結區
 [HW1](https://github.com/Chihlingna/PL/blob/main/HW1.py)
-
+[HW2](https://github.com/Chihlingna/PL/blob/main/HW2/HW2.py)
 ## 專題連結區
+ 
