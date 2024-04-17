@@ -11,5 +11,9 @@
 [HW1](https://github.com/Chihlingna/PL/blob/main/HW1.py)
 
 [HW2](https://github.com/Chihlingna/PL/blob/main/HW2/HW2.py)
+
+[HW3影片](https://youtu.be/mSr4-woN99E)
+
+[HW3檔案](https://github.com/Chihlingna/PL/tree/main/HW3)
 ## 專題連結區
  
